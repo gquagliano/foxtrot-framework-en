@@ -7,7 +7,7 @@
 
 ![](https://github.com/gquagliano/foxtrot-framework/wiki/img/editor.jpg)
 
-Foxtrot is a rapid web and mobile app development framework, featuring a **visual editor** which integrates a JavaScript frontend with a headless PHP backend, and one that aims to be the **easiest** *cross-platform-all-in-one-framework* to learn and use.
+Foxtrot is a rapid web and mobile app development framework, featuring a **visual editor** which integrates a JavaScript frontend with a headless PHP backend, and one that aims to be the **easiest** *cross-platform-ultra-lightweight-all-in-one-framework* to learn and use.
 
 We have took the compromise to create **a framework that's not like all the others**, one that **doesn't overload** either the developer's head, the system or the client's device; one where **almost no configuration** is required, that is **super-easy** to use, and that was written in **almost-human** language.
 
