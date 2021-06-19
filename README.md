@@ -19,6 +19,8 @@ We have took the compromise to create **a framework that's not like all the othe
 
 It's important for us as well **to promote proper language learning and writing** for PHP and (specially) JavaScript, understanding and empowring the correct usage of classes (PHP) and the JavaScript prototype over any other pattern. That's why Foxtrot **doesn't have pseudo-classes or a virutal DOM**, just *(so many)* utilities to shorten and automate the most common processes in the interaction between the user and the UI, and between client and server.
 
+**Translations for the app manager and the editor are in development!**
+
 ## Where's the code
 
 This repo is **for the english version of the docs *only***. We're translating the docs and they will be pushed soon.
